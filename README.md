@@ -11,7 +11,7 @@ To have an idea on what we do on a day-to-day basis, the tools we frequently use
 - Python, PyTorch, MATLAB, and (a bit of) C++
 
 
-📣**We are looking for Master's and Ph.D. students who are**:
+==📣**We are looking for Master's and Ph.D. students who are**==:
 - Interested in machine learning and wireless communications in general
 - Highly motivated and having solid mathematics and coding background
 - Passionate about life and scientific research
