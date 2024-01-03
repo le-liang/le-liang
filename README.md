@@ -1,4 +1,4 @@
-## Hi there, we're [LLGroup](https://liang-seu.net/):
+# Hi there, we're [LLGroup](https://liang-seu.net/):
 We are a research group led by [Professor Le Liang](https://liang-seu.net/) from the School of Information Science and Engineering, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. We do research in wireless communications, signal processing, and machine learning and the current focus is on the theory and application of intelligent wireless systems, including:
 - Learning-based communication signal processing (e.g., learning-driven MIMO receiver design)
 - Intelligent radio resource management (e.g., resource allocation in cellular/V2X/Wi-Fi networks)
