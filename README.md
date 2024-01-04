@@ -1,5 +1,5 @@
 # Hi there, we're [LLGroup](https://liang-seu.net/)
-We are a research group led by [Professor Le Liang](https://liang-seu.net/) in the School of Information Science and Engineering, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. We do research in wireless communications, signal processing, and machine learning and the current focus is on the theory and application of intelligent wireless systems, including:
+We are a research group led by [Professor Le Liang](https://liang-seu.net/) in the School of Information Science and Engineering, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. We do research in wireless communications, signal processing, and machine learning and the current focus is
 - **Wireless AI** (e.g., MCMC + signal processing, RL/GNN + resource allocation, multi-agent RL)
 - **Semantic communications** (e.g., collaborative perception for autonomous driving)
 - **Wireless sensing** (e.g., integrated sensing and communications)
